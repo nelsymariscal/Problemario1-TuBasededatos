@@ -1,0 +1,9 @@
+﻿<Application x:Class="Problemario_1___Tu_Base_de_datos.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Problemario_1___Tu_Base_de_datos"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
